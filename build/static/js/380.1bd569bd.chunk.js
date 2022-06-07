@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksplitting_sample=self.webpackChunksplitting_sample||[]).push([[380],{380:function(t,n,e){function s(){alert("\ube4c\ub4dc \ud14c\uc2a4\ud2b8\uc911\uc785\ub2c8\ub2e4.")}e.r(n),e.d(n,{default:function(){return s}})}}]);
+//# sourceMappingURL=380.1bd569bd.chunk.js.map
